@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">AI products. Developer environments.</title>
+  <desc id="desc">A dark editorial banner with connected product and development windows.</desc>
+  <rect width="1000" height="240" rx="16" fill="#182420"/>
+  <rect x="34" y="37" width="6" height="18" rx="3" fill="#9cd3ba"/>
+  <text x="53" y="51" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#a3bbae">DESIGN · BUILD · IMPROVE</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.5" fill="#f3f0e8">
+    <text x="34" y="117">AI products.</text>
+    <text x="34" y="175">Developer environments.</text>
+  </g>
+  <text x="35" y="211" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#a3bbae">Sejun Kim / AgentBa.se</text>
+  <path d="M818 78v91h-55" fill="none" stroke="#41594b" stroke-width="2"/>
+  <rect x="753" y="39" width="202" height="101" rx="12" fill="#263e31" stroke="#415d47"/>
+  <circle cx="773" cy="59" r="4" fill="#a7d9b6"/>
+  <rect x="787" y="55" width="52" height="7" rx="3.5" fill="#54745a"/>
+  <path d="M775 110l25-20 23 9 29-23 27 16 28-20 25 9" fill="none" stroke="#a7d9b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="698" y="151" width="204" height="59" rx="12" fill="#213129" stroke="#465247"/>
+  <text x="716" y="187" font-family="monospace" font-size="15" fill="#e5b79a">&gt; build / verify</text>
+  <circle cx="933" cy="185" r="13" fill="#d8a58c"/>
+</svg>
